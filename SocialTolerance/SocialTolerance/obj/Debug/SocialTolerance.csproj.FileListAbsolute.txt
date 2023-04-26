@@ -1,0 +1,21 @@
+C:\Users\hzxjhd\Desktop\SocialTolerance\SocialTolerance\bin\Debug\SocialTolerance.exe.config
+C:\Users\hzxjhd\Desktop\SocialTolerance\SocialTolerance\bin\Debug\SocialTolerance.exe
+C:\Users\hzxjhd\Desktop\SocialTolerance\SocialTolerance\bin\Debug\SocialTolerance.pdb
+C:\Users\hzxjhd\Desktop\SocialTolerance\SocialTolerance\obj\Debug\SocialTolerance.csprojAssemblyReference.cache
+C:\Users\hzxjhd\Desktop\SocialTolerance\SocialTolerance\obj\Debug\SocialTolerance.Properties.Resources.resources
+C:\Users\hzxjhd\Desktop\SocialTolerance\SocialTolerance\obj\Debug\SocialTolerance.csproj.GenerateResource.cache
+C:\Users\hzxjhd\Desktop\SocialTolerance\SocialTolerance\obj\Debug\SocialTolerance.csproj.CoreCompileInputs.cache
+C:\Users\hzxjhd\Desktop\SocialTolerance\SocialTolerance\obj\Debug\SocialTolerance.exe
+C:\Users\hzxjhd\Desktop\SocialTolerance\SocialTolerance\obj\Debug\SocialTolerance.pdb
+C:\Users\hzxjhd\Desktop\SocialTolerance\SocialTolerance\obj\Debug\SocialTolerance.Form1.resources
+C:\Code Projects\Joe\SocialTolerance\SocialTolerance\SocialTolerance\bin\Debug\SocialTolerance.exe.config
+C:\Code Projects\Joe\SocialTolerance\SocialTolerance\SocialTolerance\bin\Debug\SocialTolerance.exe
+C:\Code Projects\Joe\SocialTolerance\SocialTolerance\SocialTolerance\bin\Debug\SocialTolerance.pdb
+C:\Code Projects\Joe\SocialTolerance\SocialTolerance\SocialTolerance\obj\Debug\SocialTolerance.csproj.AssemblyReference.cache
+C:\Code Projects\Joe\SocialTolerance\SocialTolerance\SocialTolerance\obj\Debug\SocialTolerance.csproj.SuggestedBindingRedirects.cache
+C:\Code Projects\Joe\SocialTolerance\SocialTolerance\SocialTolerance\obj\Debug\SocialTolerance.Form1.resources
+C:\Code Projects\Joe\SocialTolerance\SocialTolerance\SocialTolerance\obj\Debug\SocialTolerance.Properties.Resources.resources
+C:\Code Projects\Joe\SocialTolerance\SocialTolerance\SocialTolerance\obj\Debug\SocialTolerance.csproj.GenerateResource.cache
+C:\Code Projects\Joe\SocialTolerance\SocialTolerance\SocialTolerance\obj\Debug\SocialTolerance.csproj.CoreCompileInputs.cache
+C:\Code Projects\Joe\SocialTolerance\SocialTolerance\SocialTolerance\obj\Debug\SocialTolerance.exe
+C:\Code Projects\Joe\SocialTolerance\SocialTolerance\SocialTolerance\obj\Debug\SocialTolerance.pdb
